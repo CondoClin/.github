@@ -51,6 +51,6 @@ A **CondoClin** é uma empresa de tecnologia especializada em soluções digitai
 
 <div align="center">
 
-**CondoClin** · Salvador, Bahia, Brasil · [condoclin.com.br](https://condoclin.com.br)
+**CondoClin** · Salvador, Bahia, Brasil · [condoclin.digital](https://condoclin.digital)
 
 </div>
