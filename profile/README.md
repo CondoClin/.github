@@ -35,17 +35,6 @@ A **CondoClin** é uma empresa de tecnologia especializada em soluções digitai
 | 👥 **RH Condominial** | Gestão de funcionários, escalas e ponto eletrônico |
 | 📊 **Dashboard Executivo** | Relatórios e indicadores em tempo real |
 
-## Stack Tecnológica
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</div>
 
 ---
 
